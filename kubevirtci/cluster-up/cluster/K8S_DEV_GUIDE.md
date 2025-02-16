@@ -1,4 +1,4 @@
-﻿# kubevirtci K8s provider dev guide.
+# kubevirtci K8s provider dev guide.
 
 Note: in the following scenarios we are using `${KUBEVIRT_PROVIDER_VERSION}` as pointer to the `major.minor` k8s version we are using
 

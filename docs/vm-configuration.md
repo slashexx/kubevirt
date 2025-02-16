@@ -1,4 +1,4 @@
-﻿Virtual Machine Configuration
+Virtual Machine Configuration
 =============================
 
 The configuration of virtual machines is one of the core tasks to accomplish
